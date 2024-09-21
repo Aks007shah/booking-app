@@ -1,0 +1,27 @@
+.bg-warning {
+  background: linear-gradient(to right, #f53c04, #6b7385);
+}
+
+.homeHeadingOne {
+  background-color: #2f8d46;
+  background-image: url("https://media.geeksforgeeks.org/wp-content/uploads/20231218222854/1.png");
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 200px;
+  font-size: 70px;
+  text-align: center;
+  font-weight: bolder;
+  text-transform: uppercase;
+  font-family: "Steelfish Rg", "helvetica neue", helvetica, arial, sans-serif;
+  font-weight: 800;
+  -webkit-font-smoothing: antialiased;
+}
+
+.btn-warning {
+  background-color: #73c8a9;
+}
+
+.shado:hover {
+  box-shadow: 5px 5px 10px #000;
+}
